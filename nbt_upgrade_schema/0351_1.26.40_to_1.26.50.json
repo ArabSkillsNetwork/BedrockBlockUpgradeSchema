@@ -3,6 +3,7 @@
     "maxVersionMinor": 21,
     "maxVersionPatch": 60,
     "maxVersionRevision": 33,
+    "forceApplyAddedProperties": true,
     "addedProperties": {
         "minecraft:acacia_fence": {
             "minecraft:connection_east": {

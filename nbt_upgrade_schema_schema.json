@@ -74,6 +74,9 @@
 			"type": "integer",
 			"minimum": 0
 		},
+		"forceApplyAddedProperties": {
+			"type": "boolean"
+		},
 		"renamedIds": {
 			"type": "object",
 			"additionalProperties": {

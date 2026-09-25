@@ -77,6 +77,9 @@
 		"forceApplyAddedProperties": {
 			"type": "boolean"
 		},
+		"forceApplyRenamedIds": {
+			"type": "boolean"
+		},
 		"renamedIds": {
 			"type": "object",
 			"additionalProperties": {

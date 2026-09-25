@@ -4,6 +4,7 @@
     "maxVersionPatch": 60,
     "maxVersionRevision": 33,
     "forceApplyAddedProperties": true,
+    "forceApplyRenamedIds": true,
     "renamedIds": {
         "minecraft:chain": "minecraft:iron_chain"
     },
